@@ -13,3 +13,4 @@ Snoring is related to a common medical condition that can lead to many serious h
 [Access code here](https://github.com/adrianagaler/Snoring-Detection)
 
 ![Snoring Detection on a Microcontroller](https://www.youtube.com/watch?v=aQpIooBEGsA)
+[![Snoring Detection on a Microcontroller](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=aQpIooBEGsA "Everything Is AWESOME")
