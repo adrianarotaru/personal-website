@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Embedded Dense Neural Networks for Battery Cyclability Prediction on Automotive Microcontroller Devices"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021-05-embeded-dnn
+excerpt: 'This paper explores the development of a testing methodology in the context of accurately predicting future battery performance using machine learning. In particular, I propose a Dense Neural Network Model that can predict battery life using data from the first 50 cycles in the battery life.'
+date: 2021-05
+venue: 'Harvard University Dash Office of Communication Directory'
+paperurl: 'https://dash.harvard.edu/handle/1/37368547'
+citation: 'Rotaru, A. (2021). &quot;Embedded Dense Neural Networks for Battery Cyclability Prediction on Automotive Microcontroller Devices.&quot; <i>Harvard University Dash Office of Communication Directory</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper explores the development of a testing methodology in the context of accurately predicting future battery performance using machine learning. In particular, I propose a Dense Neural Network Model that can predict battery life using data from the first 50 cycles in the battery life.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://dash.harvard.edu/bitstream/handle/1/37368547/Official%20Senior%20Thesis.pdf?sequence=1&isAllowed=y)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Rotaru, A. (2021). "Embedded Dense Neural Networks for Battery Cyclability Prediction on Automotive Microcontroller Devices" <i>Harvard University Dash Office of Communication Directory</i>. 1(1).
