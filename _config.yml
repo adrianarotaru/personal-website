@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Adriana Rotaru"
   avatar           : "profile.png"
-  bio              : "technology enthusiast"
+  bio              : "Technology Enthusiast"
   location         : "Boston, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://scholar.google.com/this-is-a-test"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "adrianarotaru"
+  github           : "adrianagaler"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/adriana-rotaru-395490163"
-  orcid            : "http://orcid.org/this-is-a-test"
+  orcid            : # "http://orcid.org/this-is-a-test"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "no-twitter"
+  twitter          : #"no-twitter"
   vine             :
   weibo            :
   xing             :
