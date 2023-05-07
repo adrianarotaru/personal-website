@@ -49,8 +49,9 @@ layout: default
           <p>Recommended citation: {{ page.citation }} </p>
         {% elsif page.source %}
           <p><span class="glyphicon glyphicon-user"></span> Authors: {{ page.source }} </p>
+        {% elsif page.source %}
+          {% include youtube.html id={{page.projecturl}} %}
         {% endif %}
-    
         </header>
       {% endunless %}
 
