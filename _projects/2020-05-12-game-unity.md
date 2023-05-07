@@ -1,5 +1,5 @@
 ---
-title: "Unity Bloxorz Game (Open GL Graphics)"
+title: "Unity Bloxorz Game for Windows and MacOS"
 collection: projects
 permalink: /project/2020-05-12-game-unity
 excerpt: 'A game akin to Bloxorz in the Unity game engine. The game was built in the 3D framework of the Unity Hub, version 2020.3.6f1. To implement the functioning prototype, I utilized various tools within Unity such as its shader tools, physics engine, scene hierarchy, particle system, lighting engine, and more.'
