@@ -12,4 +12,4 @@ This paper explores the development of a testing methodology in the context of a
 
 [Download paper here](https://dash.harvard.edu/handle/1/37368547)
 
-Recommended citation: Rotaru, A. (2021). "Embedded Dense Neural Networks for Battery Cyclability Prediction on Automotive Microcontroller Devices" <i>Harvard Library Office for Scholarly Communication</i>
+<!-- Recommended citation: Rotaru, A. (2021). "Embedded Dense Neural Networks for Battery Cyclability Prediction on Automotive Microcontroller Devices" <i>Harvard Library Office for Scholarly Communication</i> -->
