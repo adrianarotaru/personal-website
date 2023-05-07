@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adriana Rotaru / personal website"
+title                    : "Adriana Rotaru"
 title_separator          : "-"
 name                     : &name "Adriana Rotaru"
 description              : &description "drones, technology, medicine"
