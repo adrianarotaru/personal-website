@@ -73,7 +73,7 @@ Work experience
 Leadership 
 ======
 * **Fall 2019: Harvard Undergraduate Aeronautics Club, _Board, Software_, Cambridge, MA**
-* Prospective participant in the Unmanned Aerial Systems (AUVSI) Competition, 2020. 
+  * Prospective participant in the Unmanned Aerial Systems (AUVSI) Competition, 2020. 
   * Built, designed, and tested a search and path-planning algorithm for an unmanned quadcopter flight, accounting for camera and geographic parameters. 
   * Managed to boost the automation score and performance for the flight by 2x
 
