@@ -11,9 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor's, Computer Science and Physics, Harvard University, 2021
+* Cross-registration, MIT, Computer Science, 2021
+
+Awards
+======
+* Undergraduate:
+  * The Weissman International Internship Award, 2019
+  * David Rockefeller International Experience Award, 2018
+
+* High School, Moldova:
+  * The National Chemistry Olympiad, Moldova, 2017, _3rd Prize_
+  * National Chemistry Selection for the International Chemistry Olympiad, 2016, _1st Prize_
+  * MoldSEF National Science and Engineering Fair, 2016, _3rd Prize_
+  * Diamond Challenge, 2016, _3rd Prize_
+  * The National Chemistry Olympiad, Moldova, _Honorable Mention_.
+  * The State Physics Olympiad, 2015 _3rd Prize_ 
+  * The State Chemistry Olympiad, 2015 _2nd Prize_
+
+  
+* International Chemistry Olympiad, 2016, Tbilisi, Georgia, _Certificate of Participation_
+* International Junior Science Olympiad, 2014, Mendoza, Argentina, _Certificate of Participation_
+
 
 Work experience
 ======
