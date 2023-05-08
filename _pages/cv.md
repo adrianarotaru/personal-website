@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor's, Computer Science and Physics, Harvard University, 2021
+* **Bachelor's, Computer Science and Physics, Harvard University, 2021**
   * High Honors in Computer Science
   * Highest Honors for Senior Thesis
 * Cross-registration, MIT, Computer Science, 2021
@@ -19,11 +19,11 @@ Education
 
 Awards
 ======
-* Undergraduate:
+* **Undergraduate:**
   * The Weissman International Internship Award, 2019
   * David Rockefeller International Experience Award, 2018
 
-* High School, Moldova:
+* **High School, Moldova:**
   * The National Chemistry Olympiad, Moldova, 2017, _3rd Prize_
   * National Chemistry Selection for the International Chemistry Olympiad, 2016, _1st Prize_
   * MoldSEF National Science and Engineering Fair, 2016, _3rd Prize_
