@@ -14,8 +14,8 @@ Education
 * **Bachelor's, Computer Science and Physics, Harvard University, 2021**
   * High Honors in Computer Science
   * Highest Honors for Senior Thesis
-* Cross-registration, MIT, Computer Science, 2021
-* Summer School, Ca'Foscari University of Venice, Economics, 2018
+* **Cross-registration, MIT, Computer Science, 2021**
+* **Summer School, Ca'Foscari University of Venice, Economics, 2018**
 
 Awards
 ======
@@ -42,7 +42,7 @@ Work experience
 
 * **February 2022 - present : Software Engineer**
   * _Zipline International, Spatial Planning_, South San Francisco, CA
-    * Define system requirements for route planning with consideration of population, ground obstacles, and terrain
+    * Define system requirements for route planning, given population, ground obstacles, and terrain data
     * Collaborate with geo-spatial team on evaluation of relevant geo-spatial databases
     * Support the System Safety Case framework and documentation, and present to regulators
     * Participate in technical discussions with external stakeholders from the industry (i.e. ASTM)
