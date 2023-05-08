@@ -4,7 +4,7 @@ collection: media
 type: "Article"
 permalink: /media/2019-09-05-best-student
 venue: "EU Parliament Visit"
-date: 2019-09-15
+date: 2019-09-05
 location: "Brussels, Belgium"
 ---
 
