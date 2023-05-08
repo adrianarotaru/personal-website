@@ -2,9 +2,9 @@
 title: "EU parliament visit, at the invitation of Siegfried Muresanu, Current Vice-President of the European People's Party"
 collection: media
 type: "Article"
-permalink: /article/2019-09-01-Best-student
+permalink: /article/2019-09-15-best-student
 venue: "EU Parliament Visit"
-date: 2019-09-01
+date: 2019-09-15
 location: "Brussels, Belgium"
 ---
 
