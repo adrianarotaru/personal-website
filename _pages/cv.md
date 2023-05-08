@@ -73,7 +73,7 @@ Leadership
 
 Other Leadership Positions
 ======
-* **Harvard Aeronautics Club (Software)**
+* **Harvard Aeronautics Club (Board, Software)**
 * **Romanian Association (Co-President)**
 
 <!--   
