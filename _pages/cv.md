@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * Bachelor's, Computer Science and Physics, Harvard University, 2021
+  * High Honors in Computer Science
+  * Highest Honors for Senior Thesis
 * Cross-registration, MIT, Computer Science, 2021
 * Summer School, Ca'Foscari University of Venice, Economics, 2018
 
@@ -38,45 +40,41 @@ Awards
 Work experience
 ======
 
-* June 2021 - February 2022 : Software Engineering
-  * Azure Developer Tools, Microsoft Corporation
-  * Duties included: Built back-end C# featuring and testing solutions for Change Analysis, a tool for cloud resources monitoring and diagnosis. Designed and built a rollout deployment infrastructure using Azure pipelines CDPX. Designed and implemented application a timeout solution for deployments on over 20k VM instances
-  * Supervisor: Yanming Tang
+* **June 2021 - February 2022 : Software Engineering**
+  * _Azure Developer Tools, Microsoft Corporation_
+  * Built back-end C# featuring and testing solutions for Change Analysis, a tool for cloud resources monitoring and diagnosis. Designed and built a rollout deployment infrastructure using Azure pipelines CDPX. Designed and implemented application a timeout solution for deployments on over 20k VM instances
 
 
-* Summer 2020 : Software Engineering Intern
-  * Azure Developer Tools, , Microsoft Corporation
-  * Duties included: Built a Kubernetes support tool for detecting configuration changes on a Kubernetes cluster app. Collaborated with another team to reduce the latency from 3min to 30 sec which enhanced user experience. Designed and implemented an extension tool, that triggers data pulls only upon changes of the app environment, which helped the team save 25% of memory storage
-  * Supervisor: Brahmnes Fung
+* **Summer 2020 : Software Engineering Intern**
+  * _Azure Developer Tools, , Microsoft Corporation_
+  * Built a Kubernetes support tool for detecting configuration changes on a Kubernetes cluster app. Collaborated with another team to reduce the latency from 3min to 30 sec which enhanced user experience. Designed and implemented an extension tool, that triggers data pulls only upon changes of the app environment, which helped the team save 25% of memory storage
 
 
-* Summer 2019: Software Engineering, Member of the ATLAS Group, CERN
-  * European Organization for Nuclear Research
-  * Duties included: Run testing simulations for the New Small Wheel of the Large Hadron Collider. Build software for data transmission via FPGA of high-speed particle signals.
+
+* **Summer 2019: Software Engineering, Member of the ATLAS Group, CERN**
+  * _European Organization for Nuclear Research_
+  * Run testing simulations for the New Small Wheel of the Large Hadron Collider. Build software for data transmission via FPGA of high-speed particle signals.
   * Supervisor: Professor John Huth, Dr. Lawrence Lee
 
 
 
 Leadership 
 ======
-* Fall 2019: Harvard Undergraduate Aeronautics Club, _Software_
-* Cambridge, MA
-* Duties included: Prospective participant in the Unmanned Aerial Systems (AUVSI) Competition, 2020. Built, designed, and tested a search and path-planning algorithm for an unmanned quadcopter flight, accounting for camera and geographic parameters. Managed to boost the automation score and performance for the flight by 2x
+* **Fall 2019: Harvard Undergraduate Aeronautics Club, _Software_, Cambridge, MA**
+* Prospective participant in the Unmanned Aerial Systems (AUVSI) Competition, 2020. Built, designed, and tested a search and path-planning algorithm for an unmanned quadcopter flight, accounting for camera and geographic parameters. Managed to boost the automation score and performance for the flight by 2x
 
 
-* Fall 2019: WECode (Women Engineers Code) 2019 Conference, _Programming Director_
-  * Women in Computer Science, Cambridge, MA
-  * Duties included: Built a community of technical women at Harvard through organizing the annual WECode Conference. Invited guest speakers and plan the panels on different areas of the applications of Computer Science. Approved the budget and the operations for the conference and set the strategic objectives of the organization. Solicited potential sponsors for the event which impacted more than 500 US undergraduate women
+* **Fall 2019: WECode (Women Engineers Code) 2019 Conference, _Programming Director_, Cambridge, MA**
+  * Built a community of technical women at Harvard through organizing the annual WECode Conference. Invited guest speakers and plan the panels on different areas of the applications of Computer Science. Approved the budget and the operations for the conference and set the strategic objectives of the organization. Solicited potential sponsors for the event which impacted more than 500 US undergraduate women
 
 
-* Fall 2018: Project Manager of the Welcome Project
-  * Social Innovation Projects, Cambridge, MA
-  * Duties included: Managed the team in setting up a salesforce database for a nonprofit which provides services for immigrants. Developed a website which will allow TWP management to direct resources towards immigrant families.Grew my technical expertise in data management while focusing on positive social change.
+* **Fall 2018: Project Manager of the Welcome Project, Cambridge, MA**
+  * Managed the team in setting up a salesforce database for a nonprofit which provides services for immigrants. Developed a website which will allow TWP management to direct resources towards immigrant families.Grew my technical expertise in data management while focusing on positive social change.
 
 Other Leadership Positions
 ======
-* Harvard Aeronautics Club (Software)
-* Romanian Association (Co-President)
+* **Harvard Aeronautics Club (Software)**
+* **Romanian Association (Co-President)**
 
 <!--   
 Programming Languages: C++, C, Python, R, React.js, HTML, ROOT, System Verilog
@@ -106,6 +104,3 @@ Media
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
