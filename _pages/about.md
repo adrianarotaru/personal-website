@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Adriana Rotaru Account's home on the web!
+Hi! Welcome to my profile! I am an enthusiastic young woman in tech, interested in autonomous technology, AI, and green energy research. I have done research in cardiology and now I am focusing on technology applications in healthcare. I am pursuing a career in autonomous drone delivery and I continue supporting women in tech.
 
-Lorem Ipsum!
+My hobbies include chess, searching for talented perfume artists,  writing, and reading.
