@@ -2,7 +2,7 @@
 title: "Nomination for the "Best Bachelor's Student Abroad" by the Gala of Students Originating from Moldova, VII-th Edition"
 collection: media
 type: "Article"
-permalink: /media/2019-09-05-EU-visit
+permalink: /media/2019-09-05-best-student
 venue: "EU Parliament Visit"
 date: 2019-09-15
 location: "Brussels, Belgium"
