@@ -1,5 +1,5 @@
 ---
-title: "Nomination for the "Best Bachelor's Student Abroad" by the Gala of Students Originating from Moldova, VII-th Edition"
+title: "Nomination for the 'Best Bachelor's Student Abroad' by the Gala of Students Originating from Moldova, VII-th Edition"
 collection: media
 type: "Article"
 permalink: /article/2019-09-10-best-student
