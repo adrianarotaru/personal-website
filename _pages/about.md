@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my profile! I am an enthusiastic young woman in tech, interested in autonomous technology, AI, and green energy research. I have done research in cardiology and now I am focusing on technology applications in healthcare. I am pursuing a career in autonomous drone delivery and I continue supporting women in tech.
+Hi! Welcome to my profile! I am an enthusiastic young woman in tech, interested in autonomous technology, AI, and green energy research. In the past, I have conductive extensive research in cardiology,  and now I am focusing on technology applications in healthcare. I am pursuing a career in autonomous drone delivery and I am an avid supporter of women in tech.
 
 
 
