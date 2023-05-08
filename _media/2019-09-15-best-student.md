@@ -1,8 +1,8 @@
 ---
-title: "EU parliament visit, at the invitation of Siegfried Muresanu, Current Vice-President of the European People's Party"
+title: "Nomination for the "Best Bachelor's Student Abroad" by the Gala of Students Originating from Moldova, VII-th Edition"
 collection: media
 type: "Article"
-permalink: /media/2016-04-19-EU-visit
+permalink: /media/2019-09-05-EU-visit
 venue: "EU Parliament Visit"
 date: 2019-09-15
 location: "Brussels, Belgium"
