@@ -12,4 +12,4 @@ location: "Chisinau, Moldova"
 
 The Gala of Students Originating from Moldova annually nominates 27 students originating from Moldova who study abroad for outstanding academic performances and professional achievements.
 
-![Image](../images/gala.png)
+<!-- ![Image](../images/gala.png) -->
