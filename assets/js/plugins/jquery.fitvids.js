@@ -3,7 +3,7 @@
 * FitVids 1.1
 *
 * Copyright 2013, Chris Coyier - https://css-tricks.com + Dave Rupert - https://daverupert.com
-* Credit to Thierry Koblentz - https://.alistapart.com/articles/creating-intrinsic-ratios-for-video/
+* Credit to Thierry Koblentz - https://alistapart.com/articles/creating-intrinsic-ratios-for-video/
 * Released under the WTFPL license - https://sam.zoy.org/wtfpl/
 *
 */
