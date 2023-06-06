@@ -7,4 +7,4 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 # Summary: 
 1. Using academicpages for benchmark and build upon that
 
-See more info at https://academicpages.github.io/ or comment / raise a ticket under this repo.
+See more info at http://academicpages.github.io/ or comment / raise a ticket under this repo.

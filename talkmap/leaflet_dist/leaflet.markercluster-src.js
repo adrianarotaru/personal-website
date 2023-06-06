@@ -1,7 +1,7 @@
 
 	/*
 	 Leaflet.markercluster, Provides Beautiful Animated Marker Clustering functionality for Leaflet, a JS library for interactive maps.
-	 https://github.com/Leaflet/Leaflet.markercluster
+	 http://github.com/Leaflet/Leaflet.markercluster
 	 (c) 2012-2013, Dave Leaver, smartrak
 	*/
 	(function (window, document, undefined) {/*
@@ -1032,7 +1032,7 @@
 
 		/**
 		 * Expands the latitude to Infinity (or -Infinity) if the input bounds reach the map projection maximum defined latitude
-		 * (in the case of Web/Spherical Mercator, it is 85.0511287798 / see https://en.wikipedia.org/wiki/Web_Mercator#Formulas).
+		 * (in the case of Web/Spherical Mercator, it is 85.0511287798 / see http://en.wikipedia.org/wiki/Web_Mercator#Formulas).
 		 * Otherwise, the removeOutsideVisibleBounds option will remove markers beyond that limit, whereas the same markers without
 		 * this option (or outside MCG) will have their position floored (ceiled) by the projection and rendered at that limit,
 		 * making the user think that MCG "eats" them and never displays them again.
@@ -2043,7 +2043,7 @@
 	});
 
 
-	//This code is 100% based on https://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet
+	//This code is 100% based on http://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet
 	//Huge thanks to jawj for implementing it first to make my job easy :-)
 
 	L.MarkerCluster.include({
@@ -2260,7 +2260,7 @@
 				map.addLayer(leg);
 				m._spiderLeg = leg;
 
-				// Explanations: https://jakearchibald.com/2013/animated-line-drawing-svg/
+				// Explanations: http://jakearchibald.com/2013/animated-line-drawing-svg/
 				// In our case the transition property is declared in the CSS file.
 				if (svg) {
 					legPath = leg._path;

@@ -20,7 +20,7 @@ import os
 # - Fields that cannot be blank: `title`, `url_slug`, `date`. All else can be blank. `type` defaults to "Article"
 # - `date` must be formatted as YYYY-MM-DD.
 # - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper.
-#     - The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/media/YYYY-MM-DD-[url_slug]`
+#     - The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `http://[yourdomain]/media/YYYY-MM-DD-[url_slug]`
 #     - The combination of `url_slug` and `date` must be unique, as it will be the basis for your filenames
 #
 
