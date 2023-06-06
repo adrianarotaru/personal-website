@@ -85,10 +85,10 @@ author:
   bio              : "Technology Enthusiast"
   location         : "Boston, MA"
   employer         : "Zipline International, Inc."
-  pubmed           : #"http://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"http://ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://scholar.google.com/this-is-a-test"
   email            : "rotaruadriana172@gmail.com"
-  researchgate     :  # example: "http://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "http://researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :

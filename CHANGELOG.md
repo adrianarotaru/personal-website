@@ -205,7 +205,7 @@
 
 ### Enhancements
 
-- Add [Discourse](http://www.discourse.org/) as a commenting provider. [#335](http://github.com/mmistakes/minimal-mistakes/pull/335)
+- Add [Discourse](http://.discourse.org/) as a commenting provider. [#335](http://github.com/mmistakes/minimal-mistakes/pull/335)
 
 ## [3.2.2](http://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.2)
 
