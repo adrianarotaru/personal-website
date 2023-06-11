@@ -87,7 +87,7 @@ Leadership
 
 * **Fall 2018: Project Manager of the Welcome Project, Cambridge, MA**
   * Led a team of 5 engineers in setting up a salesforce database for a nonprofit which provides services for immigrants. 
-  * Developed a website which will allow TWP management to direct resources towards immigrant families.
+  * Developed a website which will allowed TWP management to direct resources towards immigrant families.
   * Grew my technical and leadership expertise in data management while focusing on positive social change.
 
 Other Leadership Positions
