@@ -11,6 +11,6 @@ A game akin to Bloxorz in the Unity game engine. The game was built in the 3D fr
 
 [Access code here](https://github.com/adrianagaler/CS175-FinalProject)
 
-[Download paper here](https://wwww.adrianarotaru.github.io/files/game.pdf)
+[Download paper here](https://adrianarotaru.github.io/files/game.pdf)
 
 [![Unity Bloxorz Game (Open GL Graphics)](../images/game.png)](https://github.com/adrianagaler/CS175-FinalProject)
