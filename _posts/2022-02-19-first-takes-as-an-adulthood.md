@@ -1,13 +1,12 @@
 ---
-title: 'Adulthood: first 'hot' takes'
+title: 'Adulthood: first (hot) takes'
 date: 2022-02-19
 permalink: /posts/2023/06/first-takes-as-an-adulthood
 tags:
   - career
   - values
 ---
-
-[Note: I wrote this piece in a spur of a moment while I was waiting for a friend at the Columbus Circle Mall, New York. They might sound entitled and judgemental, but I decided to not appease their scolding flavor and leave them in their raw honest form, as a recollection of how my views of the world have changed in a single year.]
+*Note: I wrote this piece in a spur of a moment while I was waiting for a friend at the Columbus Circle Mall, New York. They might sound entitled and judgemental, but I decided to not appease their scolding flavor and leave them in their raw honest form, as a recollection of how my views of the world have changed in a single year.*
 
 Time before money 
 
