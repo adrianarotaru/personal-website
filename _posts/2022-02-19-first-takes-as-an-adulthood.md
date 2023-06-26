@@ -1,5 +1,5 @@
 ---
-title: 'Adulthood: first takes'
+title: 'Adulthood: first 'hot' takes'
 date: 2022-02-19
 permalink: /posts/2023/06/first-takes-as-an-adulthood
 tags:
