@@ -6,7 +6,7 @@ tags:
   - career
   - values
 ---
-*Note: I wrote this piece in a spur of a moment while I was waiting for a friend at the Columbus Circle Mall, New York. They might sound entitled and judgemental, but I decided to not appease their scolding flavor and leave them in their raw honest form. Re-reading them, reminds me of how my views of the world have changed in a single year.*
+*Note: I wrote this piece in a spur of a moment while I was waiting for a friend at the Columbus Circle Mall, New York. I might sound entitled and judgemental, but I decided to not appease its scolding demeanor and leave these thoughts in their raw honest form. Re-reading them, reminds me just how much my views have changed over time.*
 
 Time before money 
 ======
